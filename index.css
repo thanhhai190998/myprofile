@@ -3,6 +3,7 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  font-family:"K2D";
 
 }
 h1{
@@ -15,7 +16,7 @@ h1{
 }
 h2{
   color:blue;
-  font-family:"Readex Pro";
+  font-family:"Readex+Pro";
   font-size:20px;
   text-align:left;
   text-transform:uppercase;
