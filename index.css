@@ -36,7 +36,7 @@ h1{
 }
 h2{
   color:blue;
-  font-family:"Readex+Pro";
+  font-family: "Readex Pro", sans-serif;
   font-size:20px;
   text-align:left;
   text-transform:uppercase;
@@ -51,11 +51,12 @@ h2{
   text-align: left;
 }
 #part1 p{
-    font-family: "Readex+Pro";
+  font-family: "Readex Pro", sans-serif;
   font-size: 15px;
   text-align:left;
   font-weight: normal;
-  padding: 0px 10px 5px 10px;
+  border: 0;
+  padding: 5px 10px 5px 10px;
 }
 #part2 h2{
 font-family: "K2D";
@@ -67,7 +68,8 @@ font-family: "K2D";
   
 }
 #part2 th{
-  font-family: "Readex+Pro";
+  font-family: "Readex Pro", sans-serif;
+
   font-size: 15px;
   text-align:left;
   font-weight: normal;
