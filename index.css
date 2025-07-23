@@ -87,12 +87,11 @@ font-family: "K2D";
   text-align: left;
 }
 .footer {
-  font-family:"K2D";
-  bottom: 0;
-  left: 0;
+  font-family: "K2D";
   width: 100%;
   text-align: center;
   font-size: 20px;
   background-color: #f2f2f2;
-  padding: 10px 10px 10px 10px;
+  padding: 10px;
 }
+
