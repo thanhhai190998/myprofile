@@ -4,7 +4,10 @@ body{
   background-repeat: no-repeat;
   background-position: center;
   font-family:"K2D";
-
+  margin:0;
+}
+div{
+  border:1px solid red;
 }
 h1{
   color:red;
@@ -20,4 +23,54 @@ h2{
   font-size:20px;
   text-align:left;
   text-transform:uppercase;
+}
+#part1 h2{
+  font-family: "K2D";
+  font-size: 20px;
+  font-weight: bold;
+  border: 0;
+  padding:5px 10px 5px 10px;
+  text-align: left;
+  background-color: white;
+}
+#part2 h2{
+font-family: "K2D";
+  font-size: 20px;
+  font-weight: bold;
+  border: 0;
+  padding:5px 10px 5px 10px;
+  text-align: left;
+  background-color: white;
+}
+#part2 th{
+  font-family: "Readex+Pro";
+  font-size: 15px;
+  text-align:left;
+  font-weight: normal;
+  padding: 0px 10px 5px 10px;
+}
+#part3 h2{
+  font-family: "K2D";
+  font-size: 20px;
+  font-weight: bold;
+  border: 0;
+  padding:5px 10px 5px 10px;
+  text-align: left;
+  background-color: white;
+#part3 th{
+  font-family: "Readex+Pro";
+  font-size: 15px;
+  text-align:left;
+  font-weight: normal;
+  padding: 0px 10px 5px 10px;
+}
+}
+#bottom{
+  font-family: "K2D";
+  font-size: 15px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: #74b9ff;
+  font-weight: bold;
 }
