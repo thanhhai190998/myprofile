@@ -1,10 +1,12 @@
 body{
-  background-color:"red";
+  background-color:red;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   font-family:"K2D";
   margin:0;
+  min-height: 150vh; /* tạo đủ chiều cao để cuộn */
+  padding-bottom: 60px;
 }
 html, body {
   height: 100%;
@@ -85,7 +87,6 @@ font-family: "K2D";
   text-align: left;
 }
 .footer {
-  background:"#a29bfe";
   font-family:"K2D";
   position: fixed;
   bottom: 0;
