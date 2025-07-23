@@ -1,5 +1,5 @@
 body{
-  background-image: url('pexels-lum3n-44775-311039.jpg');
+  background-color="white";
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -71,12 +71,14 @@ font-family: "K2D";
   text-align: left;
 }
 .footer {
+  background:"#a29bfe";
+  font-family:"K2D";
   position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
   text-align: center;
-  font-size: 12px;
+  font-size: 20px;
   background-color: #f2f2f2;
   padding: 5px 0;
 }
