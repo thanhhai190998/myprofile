@@ -32,23 +32,16 @@ h1{
   font-family:"K2D";
   text-align: center;
   text-transform:uppercase;
-
 }
 h2{
   color:blue;
   font-family: "Readex Pro", sans-serif;
   font-size:20px;
+  font-weight:bold;
   text-align:left;
   text-transform:uppercase;
-
-}
-#part1 h2{
-  font-family: "K2D";
-  font-size: 20px;
-  font-weight: bold;
-  border: 0;
-  padding:5px 10px 5px 10px;
-  text-align: left;
+  bolder:0;
+  padding: 5px 10px 5px 10px;
 }
 #part1 p{
   font-family: "Readex Pro", sans-serif;
@@ -58,13 +51,6 @@ h2{
   border: 0;
   padding: 0px 10px 5px 10px;
 }
-#part2 h2{
-font-family: "K2D";
-  font-size: 20px;
-  font-weight: bold;
-  border: 0;
-  padding:5px 10px 5px 10px;
-  text-align: left;
   
 }
 #part2 th{
@@ -74,25 +60,10 @@ font-family: "K2D";
   text-align:left;
   font-weight: normal;
   padding: 0px 10px 5px 10px;
-  
 }
-#part3 h2{
-  font-family: "K2D";
-  font-size: 20px;
-  font-weight: bold;
-  border: 0;
-  padding:5px 10px 5px 10px;
-  text-align: left;
+
 }
-#part5 h2{
-  font-family:"K2D";
-  font-size: 20px;
-  font-weight:bold;
-  boder:0;
-  padding: 5px 10px 5px 10px;
-  text-align: left;
-  text-transform:uppercase;
-}
+
 #bangcongtac {
   border-collapse: collapse;
   width: 100%;
